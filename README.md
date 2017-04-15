@@ -1,2 +1,2 @@
-# web
-Web Site
+# Hawaiki.org
+hawaiki.org Web Site
